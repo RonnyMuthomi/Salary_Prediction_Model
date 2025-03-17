@@ -78,7 +78,7 @@ Predictions were reasonably accurate, making this a good candidate for salary fo
 
 Clone this repository:
 
-git clone https://github.com/yourusername/salary-prediction.git
+git clone https://github.com/RonnyMuthomi/Salary_Prediction_Model
 
 Navigate to the project folder:
 
